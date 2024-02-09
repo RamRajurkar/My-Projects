@@ -44,8 +44,8 @@ def send_otp_email(sender_email, sender_password, recipient_email):
     # Disconnect from the SMTP server
         server.quit()
 
-sender_email = 'gamingrangeyt@gmail.com'
-sender_password = 'yiobhlpoflviruyl'
+sender_email = 'your-gmail@gmail.com' #Enter your valid email address
+sender_password = 'your-gmail-password' #Enter your email password
 
 # Check otp is valid or not
 def check_otp():
