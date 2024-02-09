@@ -126,8 +126,6 @@ root.bind('<Return>', on_enter_key_press)
 # Start the main event loop
 root.mainloop()
 
-# print(gmail_id)
-# print(username)
 
 current_datetime = datetime.datetime.now()
 
