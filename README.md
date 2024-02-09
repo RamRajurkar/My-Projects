@@ -51,6 +51,7 @@ This Python program enables users to create accounts with email verification thr
 
 ### Additional Notes:
 
+- Make sure to replace your valid email address and password from which you want to send email and create a passkey of your password from account manager and enable two step authentication for security.
 - Make sure to enable "Less Secure Apps" in your Gmail account settings to allow SMTP access.
 - Ensure that MongoDB is installed and running, or update the connection details to use a remote MongoDB server.
 - For security reasons, avoid hardcoding sensitive information directly into the script. Instead, consider using environment variables or configuration files.
