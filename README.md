@@ -55,3 +55,4 @@ This Python program enables users to create accounts with email verification thr
 - Make sure to enable "Less Secure Apps" in your Gmail account settings to allow SMTP access.
 - Ensure that MongoDB is installed and running, or update the connection details to use a remote MongoDB server.
 - For security reasons, avoid hardcoding sensitive information directly into the script. Instead, consider using environment variables or configuration files.
+.
