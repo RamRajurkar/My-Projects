@@ -1,5 +1,7 @@
 ### Account Creation with Email Verification
 
+# Auther - Ram Rajurkar
+
 This Python program enables users to create accounts with email verification through OTP. It provides a simple GUI interface for users to enter their desired username and Gmail ID. Upon entering the details and clicking "Send OTP," an OTP email is sent to the provided Gmail ID. After entering the correct OTP and clicking "Sign Up," the user account is created.
 
 #### Prerequisites:
